@@ -1,0 +1,1 @@
+#ifndef _CCOM_XDEFS_#define _CCOM_XDEFS_#ifndef BUG1char *scnames( register int c );#endif#if macVaxvoid xdefs_init_statics( void );#endif#endif /* _CCOM_XDEFS_ */

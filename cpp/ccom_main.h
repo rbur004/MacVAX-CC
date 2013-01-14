@@ -1,0 +1,1 @@
+#ifndef _CCOM_MAIN_#define _CCOM_MAIN_int compile(int argc, char *argv[]);#endif /* _CCOM_MAIN_ */

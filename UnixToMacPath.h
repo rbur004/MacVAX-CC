@@ -1,0 +1,1 @@
+#ifndef _UNIXTOMACPATH_#define _UNIXTOMACPATH_char	*UnixToMacPath( char *mac, char *unix );int		isUnixPath( const char *unixPath );#endif /* _UNIXTOMACPATH_ */

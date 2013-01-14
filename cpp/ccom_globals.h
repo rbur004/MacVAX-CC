@@ -1,0 +1,1 @@
+#ifndef _CCOM_GLOBALS_#define _CCOM_GLOBALS_#include <setjmp.h># undef exit# undef EXITextern jmp_buf ccom_env;# define exit(S)	longjmp(ccom_env, S)# define EXIT(S)	longjmp(ccom_env, S)#endif /* _CCOM_GLOBALS_ */

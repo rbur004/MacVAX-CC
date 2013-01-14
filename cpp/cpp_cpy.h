@@ -1,0 +1,1 @@
+#ifndef _CPP_CPY_#define _CPP_CPY_#if macVaxvoid inityy1globals( void );#endifint yy1parse( void );/* yylex.c */int yy1lex( void );int tobinary( char *st, int b );void yy1lex_init_statics( void );#endif _CPP_CPY_

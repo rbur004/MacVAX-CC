@@ -1,0 +1,1 @@
+#define SystemSevenOrLater 0#define SystemSixOrLater 0#include "cpp_defines.h"#include "ccom_defines.h"

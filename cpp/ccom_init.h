@@ -1,0 +1,1 @@
+#ifndef _CCOM_INIT_#define _CCOM_INIT_void init_cc( void );void kill_cc( void );#endif /* _CCOM_INIT_ */

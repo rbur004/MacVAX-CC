@@ -1,0 +1,1 @@
+#ifndef _CPP_MAIN_#define _CPP_MAIN_int cpp(int argc, char *argv[]);#endif /* _CPP_MAIN_ */

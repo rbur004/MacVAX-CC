@@ -1,0 +1,1 @@
+#ifndef _CCOM_OPTIM_#define _CCOM_OPTIM_NODE *fortarg( NODE *p );NODE *optim( register NODE *p );int ispow2( CONSZ c );int nncon( NODE *p );#endif /* _CCOM_OPTIM_ */

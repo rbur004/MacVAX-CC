@@ -1,0 +1,1 @@
+#define macVax 1 #define bsd4_2 1 #define ultrix 1 #define FLEXNAMES#define mc68000 1#define vax 1/* #define open(S,D) fopen(S,"r") *//* #define close __close *//* #define read __read *//* #define write __write */#define INLINE

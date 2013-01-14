@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>#include <Memory.h>#include "cpp_main.h"#include "cpp_cpp.h"int cpp(int argc, char *argv[]){	int err;	init_cpp();	err = cpp_main(argc, argv);		kill_cpp();	return err;}

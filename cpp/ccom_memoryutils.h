@@ -1,0 +1,1 @@
+#ifndef _CCOM_MEMORYUTILS_#define _CCOM_MEMORYUTILS_int ccom_StartAllocationTracker( void );int ccom_RememberAllocation( void *theBlock );int ccom_FreeRememberedAllocations( void );#endif /* _CCOM_MEMORYUTILS_ */

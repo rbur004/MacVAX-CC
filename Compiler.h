@@ -1,0 +1,1 @@
+#ifndef _COMPILER_#define _COMPILER_static pascal Boolean myFilterProc( FileParam *pbp );pascal long	HandleErrorsWindow (msWindow *theWindow, short itemHit, short unused1, Ptr unused2, long unused3);void HideAndClearErrors( void );void ShowErrors( const char *theErrorFileName );OSErr CompileFile( void );OSErr PreprocessFile( void );#endif	/* _COMPILER_ */

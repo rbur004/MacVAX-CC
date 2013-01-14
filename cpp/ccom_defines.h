@@ -1,0 +1,1 @@
+#define ASSTRINGS#define	STABDOT#define LCOMM#define BUFSTDERR#define FLEXNAMES#define LONGFIELDS#define FIXSTRUCT outstruct

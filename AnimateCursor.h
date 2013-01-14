@@ -1,0 +1,1 @@
+#ifndef _ANIMATECURSOR_#define _ANIMATECURSOR_void StartSpinning( short NumOfCursors, short InitialResID );void StopSpinning( void );#endif /* _ANIMATECURSOR_ */

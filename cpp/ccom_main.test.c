@@ -1,0 +1,1 @@
+#include <stdio.h>#include <strings.h>#include <stdlib.h>#include <Memory.h>int compile(int argc, char **argv){	int err;	init_cc();	err = cc_main(argc, argv);	kill_cc();	return err;}
